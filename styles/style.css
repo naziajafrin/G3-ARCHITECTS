@@ -1,0 +1,16 @@
+body, h3, p{
+    margin: 0;
+}
+.container{
+    margin: auto;
+}
+/* nav style  */
+.nav-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-info{
+    display: flex;
+    gap: 10px;
+}
