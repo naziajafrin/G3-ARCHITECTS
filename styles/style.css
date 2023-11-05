@@ -184,6 +184,9 @@ body, h1, h2, h3, h4, h5, h6, p{
 }
 
 /* footer  */
+.Footer{
+    padding-bottom: 216px;
+}
 .footer{
     color: #424242;
     background-color: #FFF4E7;
